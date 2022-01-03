@@ -9,12 +9,12 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
   );
-}
+  }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ffffff',
     alignItems: 'center',
     justifyContent: 'center',
   },
